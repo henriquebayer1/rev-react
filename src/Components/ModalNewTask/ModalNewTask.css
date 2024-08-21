@@ -1,0 +1,19 @@
+.button {
+
+    height: 49px;
+    width: 201px;
+    border-radius: 8px;
+    background-color: #6C45CE;
+    border: 1px solid white;
+    cursor: pointer;
+    }
+
+    .Input {width: 577px;
+    height: 177px;
+    background-color: black;
+    border-radius: 8px;
+    border: 1px solid white;
+    color: white;
+
+  
+    }
